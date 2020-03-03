@@ -9,3 +9,4 @@ puts "----------"
 
 @store1.name = "Port Coquitlam"
 @store1.save
+
